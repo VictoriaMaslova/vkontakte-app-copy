@@ -1,3 +1,12 @@
+# VK APP COPY
+
+<img src="https://github.com/VictoriaMaslova/vkontakte-app-copy/blob/main/vk.webp" alt="alt text" width="450" height="350">
+
+
+## STACK: React + Material UI + Firebase + TypeScript
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
